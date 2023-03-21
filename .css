@@ -7,7 +7,7 @@
 }
 
 body {
-    background: linear-gradient(90deg, #096c87, #35c8f0 100%);
+    background: linear-gradient(90deg, #076079, #35c8f0 100%);
 }
 
 
@@ -56,8 +56,8 @@ article {
 }
 
 .btn:hover {
-    border: 3px solid #FF4629;
-    color: #FF4629;
+    border: 3px solid #8AE0FA;
+    color: #8AE0FA;
 }
 
     .buttons {
